@@ -1,2 +1,2 @@
-# Repositório do Desafio de Projeto sobre Git/Github
-### DIO Spread Fullstack Dev
+# DIO Spread Fullstack Dev
+### Repositório do Desafio de Projeto sobre Git/Github
